@@ -1,1 +1,1 @@
-# Phala-Network
+# Eigenlayer Operator METADATA REPO
